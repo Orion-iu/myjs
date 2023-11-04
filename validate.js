@@ -1,1 +1,1 @@
-document.write("Hello Orion");
+alert("Hello Orion");
