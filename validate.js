@@ -1,1 +1,1 @@
-alert("Hello Orion");
+console.log("Hello Orion")
